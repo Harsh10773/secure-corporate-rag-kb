@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Local Vector Database (Must never be pushed)
+chroma_db/
+
+# App Data / Uploaded files (Keep repository clean)
+data/*
+!data/.gitkeep
+
+# Environment variables / Secrets
+.env
+
+# Python caching
+__pycache__/
+*.pyc
+.DS_Store
