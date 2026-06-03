@@ -55,7 +55,7 @@ Pull the lightweight, production-tuned Llama 3.2 model to your local machine:
 ### 2. Clone and Environment Setup
 
 ```bash
-  git clone [https://github.com/YOUR_USERNAME/corporate-rag-kb.git](https://github.com/YOUR_USERNAME/corporate-rag-kb.git)
+  git clone https://github.com/Harsh10773/secure-corporate-rag-kb.git
 cd corporate-rag-kb 
 ```
 ### 3. Install Dependencies
